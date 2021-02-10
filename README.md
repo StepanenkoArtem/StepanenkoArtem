@@ -1,16 +1,34 @@
-### Hi there 👋
+### Junior Python Developer
 
-<!--
-**StepanenkoArtem/StepanenkoArtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Looking for Junior Python Software Developer job.
 
-Here are some ideas to get you started:
+Decided to switch my own professional career to software development after 10+ years on retail.
+While being a self-employed merchant I have designed my own online store based on Opencart CMS.
+It was really exciting experience.
+Now the software development is what I want to do.
+I study Python last year on education platform Hexlet.io (https://ru.hexlet.io/u/stepanenkoartem)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hard Skills:
+- Python 3+
+- Django
+- Basic knowledge about HTML+CSS, SQL
+- Git/GitHub
+- TDD
+- OOP
+- Linux
+
+Soft Skills:
+- Strong attention to details
+- Technical background
+- It is normal for me to constantly learn new skills and knowledge.
+
+I am looking for a team job that will allow me to grow as a specialist.
+
+Test-driven development, code review and mentoring are practices what I want to face.
+
+Contacts:
+- Kherson, Ukraine
+- Open for relocation inside Ukraine
+- +380737730006 (Viber, Skype)
+- artem@stepanenko.one
+
