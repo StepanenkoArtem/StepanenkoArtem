@@ -1,6 +1,4 @@
-### Junior Python Developer
-
-- 🔭 Looking for Junior Python Software Developer job.
+### Ruby/Python Developer
 
 Decided to switch my own professional career to software development after 10+ years on retail.
 While being a self-employed merchant I have designed my own online store based on Opencart CMS.
@@ -27,8 +25,4 @@ I am looking for a team job that will allow me to grow as a specialist.
 Test-driven development, code review and mentoring are practices what I want to face.
 
 Contacts:
-- Kherson, Ukraine
-- Open for relocation inside Ukraine
-- +380737730006 (Viber, Skype)
-- artem@stepanenko.one
-
+- artem@stepanenko.on
