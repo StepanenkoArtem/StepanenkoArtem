@@ -7,17 +7,11 @@ Now the software development is what I want to do.
 
 Hard Skills:
 - Python 3+
+- Ruby/Rails
 - Basic knowledge about HTML+CSS, SQL
+- JS/React
 - Git/GitHub 
-- OOP
 - Linux
 
-Soft Skills:
-- Strong attention to details
-- Technical background
-- It is normal for me to constantly learn new skills and knowledge.
-
-
-
 Contacts:
-- artem@stepanenko.on
+- artem@stepanenko.one
