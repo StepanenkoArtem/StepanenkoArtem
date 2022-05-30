@@ -6,12 +6,12 @@ It was really exciting experience.
 Now the software development is what I want to do.
 
 Hard Skills:
-- Python 3+
 - Ruby/Rails
 - Basic knowledge about HTML+CSS, SQL
 - JS/React
 - Git/GitHub 
 - Linux
+- Python 3+
 
 Contacts:
 - artem@stepanenko.one
