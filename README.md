@@ -14,4 +14,4 @@ Hard Skills:
 - Python 3+
 
 Contacts:
-- artem@stepanenko.one
+- artem.stepanenko.ks.ua@gmail.com
