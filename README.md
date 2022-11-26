@@ -7,11 +7,12 @@ Now the software development is what I want to do.
 
 Hard Skills:
 - Ruby/Rails
-- Basic knowledge about HTML+CSS, SQL
 - JS/React
+- Redux/Redux toolkit
 - Git/GitHub 
 - Linux
-- Python 3+
+- Rspec
+- Hotwire/Stimulus
 
 Contacts:
 - artem.stepanenko.ks.ua@gmail.com
