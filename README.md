@@ -3,7 +3,8 @@
 Decided to switch my own professional career to software development after 10+ years on retail.
 While being a self-employed merchant I have designed my own online store based on Opencart CMS.
 It was really exciting experience.
-Now the software development is what I want to do.
+
+Since I became the software engineer from March 2021 I have worked on Ruby on Rails projects as fullstack sofware engineer. Gained good experience building API backend for web applications using REST API and GraphQL. Familiar with React/Redux Toolkit, Docker, HTML/CSS3. Test-driven-development oriented.
 
 Hard Skills:
 - Ruby/Rails
